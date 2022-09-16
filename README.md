@@ -1,7 +1,7 @@
 # <h1 align= "center">💡 Lâmpada Interativa 💡
 
 ## Objetivo do projeto:
-### Esse é um mini projeto simples praticado do canal no YouTube Fernando Leonid, do professor Fernando Leonid, com o objetivo de auxliar quem está iniciando na programação utilizando apenas HTML, CSS e JavaScript.
+### Esse é um mini projeto simples praticado do canal no YouTube Fernando Leonid, do professor Fernando Leonid, com o objetivo de auxiliar quem está iniciando na programação utilizando apenas HTML, CSS e JavaScript.
 
 ## Sobre o projeto:
 ### O usuário pode interagir com a lâmpada passando o cursor do mouse por cima e/ou utilizando o botão "Ligar" para mantê-la ligada e o "Desligar" para desligar. 
